@@ -27,3 +27,14 @@
   license: AGPL3
   items:
     - mesh_hair01
+-
+  author: Regulus Fen
+  license: CC-BY
+  items:
+    - RGF.DNA.boots
+    - RGF.Diversion.gloves
+    - RGF.Diversion.jumper
+    - RGF.Platform.ankle.boots
+    - RGF.crop.top.shirt
+    - RGF.pants
+    - RGF.thongs
